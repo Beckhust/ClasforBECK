@@ -1,0 +1,8 @@
+payload:
+  # > DFCV-proxy(for clash)
+  - DOMAIN-SUFFIX,docs.live.net
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,evernote.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,wallpaperfusion.com
+  - DOMAIN-KEYWORD,sci-hub
